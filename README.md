@@ -4,7 +4,7 @@ See which widgets rebuild, while you are still in the app.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Hamad-Anwar/widget_rebuilds_inspector/main/demo.gif"
+    src="https://raw.githubusercontent.com/Hamad-Anwar/widget_rebuilds_inspector/main/demo.mp4"
     alt="Widget Rebuild Inspector Demo"
     width="360"
   />
