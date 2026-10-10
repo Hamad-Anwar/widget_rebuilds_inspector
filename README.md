@@ -3,16 +3,13 @@
 See which widgets rebuild, while you are still in the app.
 
 <p align="center">
-  <img
-    src="doc/demo.gif"
+  <video
+    src="demo.mp4"
     alt="Widget Rebuild Inspector on a running Flutter app, with badges and the overlay"
     width="360"
   />
 </p>
 
-<p align="center">
-  <em>Drop your recording at <code>doc/demo.gif</code>. A short clip of the overlay opening, a badge flashing, and a row moving from parent rebuilds to quiet is enough.</em>
-</p>
 
 A debug-only overlay for Flutter. Wrap the widgets you care about, use the screen as usual, and read the count on the widget itself. Each count says whether a parent pushed a new configuration in, or the child rebuilt on its own.
 
