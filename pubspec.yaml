@@ -1,0 +1,23 @@
+name: widget_rebuilds_inspector
+description: "Debug-only Flutter overlay that counts widget rebuilds, flashes their bounds, and compares frequency before and after a change."
+version: 1.0.0
+topics:
+  - debugging
+  - performance
+  - devtools
+
+environment:
+  sdk: ^3.10.1
+  flutter: ">=3.38.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
