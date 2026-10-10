@@ -198,3 +198,25 @@ flutter run
 | `location` | | Extra label stored on the report row. |
 | `enabled` | inherited | Overrides the scope, then `kDebugMode`. |
 | `controller` | inherited | Overrides the nearest inspector. |
+
+## Contributing
+
+Contributions are welcome. To contribute:
+
+1. Fork this repository.
+2. Create a branch for your feature or fix.
+3. Commit the change with a message that says why it was made.
+4. Push the branch to your fork.
+5. Open a pull request against `main`.
+
+The pull request is reviewed, and merged when it fits the package.
+
+## Acknowledgements
+
+Thanks to the Flutter community for the tools and the feedback that shaped this inspector.
+
+## Contact
+
+Questions and suggestions are welcome at rh676838@gmail.com.
+
+Thanks for using the inspector while you track widget rebuilds.
