@@ -3,12 +3,15 @@
 A debug overlay that shows which widgets rebuilt, how often, and whether the parent or the child caused it.
 
 <p align="center">
-  <img src="screenshots/app.png" width="250" alt="The running app with the rebuild inspector" />
-  <img src="screenshots/panel.png" width="250" alt="The Widget Rebuild Inspector panel" />
+  <img src="screenshots/panel.jpg" width="720" alt="The Widget Rebuild Inspector panel listing wrapped widgets" />
 </p>
 
 <p align="center">
-  The app, with the chip on screen. Open it for every wrapped widget.
+  <img src="screenshots/hotspots.jpg" width="720" alt="Hotspot outlines on widgets that rebuilt, with the Rebuilds chip" />
+</p>
+
+<p align="center">
+  The open panel, then the chip with outlines on the widgets that rebuilt.
 </p>
 
 The badge and the flash sit on the widget while you use the app. A `const` child that Flutter skips stays still, so you can see when a refactor worked. Counts are diagnostics: a high number does not mean the frame was expensive.
