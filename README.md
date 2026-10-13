@@ -1,4 +1,12 @@
-# widget_rebuilds_inspector
+# Widget Rebuilds Inspector
+
+<p align="center">
+  <img src="screenshots/screenshot.png" width="720" alt="The Widget Rebuild Inspector panel listing wrapped widgets" />
+</p>
+
+<p align="center">
+  The open panel, then the chip with outlines on the widgets that rebuilt.
+</p>
 
 A debug overlay that shows which widgets rebuilt, how often, and whether the parent or the child caused it.
 
@@ -26,17 +34,7 @@ The panel is fixed at the bottom right. The chip shows the busiest count, such a
 
 The panel does not count its own rebuilds. A RAM number that moves a little on a quiet screen is the engine and the collector. A leak is a floor that climbs and stays up.
 
-<p align="center">
-  <img src="screenshots/panel.jpg" width="720" alt="The Widget Rebuild Inspector panel listing wrapped widgets" />
-</p>
 
-<p align="center">
-  <img src="screenshots/hotspots.jpg" width="720" alt="Hotspot outlines on widgets that rebuilt, with the Rebuilds chip" />
-</p>
-
-<p align="center">
-  The open panel, then the chip with outlines on the widgets that rebuilt.
-</p>
 
 ## Frequency
 

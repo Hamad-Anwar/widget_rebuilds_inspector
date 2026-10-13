@@ -1,3 +1,7 @@
+## 1.0.1
+
+* Updated screenshot and preview in documentation.
+
 ## 1.0.0
 
 * Count rebuilds of widgets wrapped in `RebuildInspector`, including parent-driven builds and child `setState`.
