@@ -1,7 +1,11 @@
 # Widget Rebuilds Inspector
 
 <p align="center">
-  <img src="screenshots/screenshot.png" width="720" alt="The Widget Rebuild Inspector panel listing wrapped widgets" />
+  <img
+    src="screenshots/screenshot.png"
+    width="100%"
+    alt="The Widget Rebuild Inspector panel listing wrapped widgets"
+  />
 </p>
 
 <p align="center">
